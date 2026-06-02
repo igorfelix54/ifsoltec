@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
+  <title>
+    IFSOLTEC - Soluções em Tecnologia
+  </title>
+
+  <!-- SEO -->
+
+  <meta
+    name="description"
+    content="Empresa especializada em manutenção de computadores, instalação de câmeras, redes, suporte técnico e desenvolvimento de sistemas.">
+
+  <meta
+    name="keywords"
+    content="manutenção de computadores, câmeras de segurança, suporte técnico, desenvolvimento de sistemas, tecnologia">
+
+  <meta
+    name="author"
+    content="IFSOLTEC">
+
+  <!-- GEO LOCALIZAÇÃO -->
+
+  <meta
+    name="geo.region"
+    content="BR-PA">
+
+  <meta
+    name="geo.placename"
+    content="Breves">
+
+  <!-- TEMA MOBILE -->
+
+  <meta
+    name="theme-color"
+    content="#0f172a">
+    
+  <!-- Open Graph para quando compartilhar no WhatsApp/Facebook. -->
+  
+    <meta property="og:title" content="IFSOLTEC">
+    <meta property="og:description"
+    content="Soluções completas em tecnologia">
+    <meta property="og:image"
+    content="https://ifsoltec.com/banner.png">
+    <meta property="og:url"
+    content="https://ifsoltec.com">
+
+  <!-- FAVICON -->
+
+  <link
+    rel="icon"
+    type="image/png"
+    href="icon.png">
+
+  <!-- GOOGLE FONTS -->
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com">
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
+
+  <!-- FONT AWESOME -->
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- CSS -->
+
+  <link
+    rel="stylesheet"
+    href="css/styleLoja.css">
+
+</head>
+
+<body>
+
+<header>
+
+  <div class="container">
+
+    <nav>
+
+      <!-- LOGO -->
+      <a href="index.html" class="logo">
+
+        <h2>
+
+          <span class="logo-if">
+            IF
+          </span>
+
+          <span class="logo-soltec">
+            SOLTEC
+          </span>
+
+        </h2>
+
+        <small>
+          Soluções em Tecnologia
+        </small>
+
+      </a>
+
+      <!-- MENU -->
+        <div class="menu">
+        
+          <a href="#inicio" class="menu-link active">
+            <i class="fas fa-house"></i>
+            <span>Início</span>
+          </a>
+        
+          <a href="#produtos" class="menu-link">
+            <i class="fas fa-box-open"></i>
+            <span>Produtos</span>
+          </a>
+        
+          <a href="#beneficios" class="menu-link">
+            <i class="fas fa-star"></i>
+            <span>Vantagens</span>
+          </a>
+        
+          <a href="#contato" class="menu-link">
+            <i class="fas fa-envelope"></i>
+            <span>Contato</span>
+          </a>
+        
+        </div>
+
+    </nav>
+
+  </div>
+
+</header>
+
+<section class="hero" id="inicio">
+
+  <div class="container">
+
+    <h1>
+      Tecnologia e equipamentos com <span>qualidade profissional</span>
+    </h1>
+
+    <p>
+      Trabalhamos com computadores, SSDs, notebooks, redes,
+      câmeras de segurança, periféricos e soluções completas
+      em tecnologia para empresas e residências.
+    </p>
+
+    <div class="hero-buttons">
+
+      <a href="#produtos" class="btn btn-primary">
+        Ver Produtos
+      </a>
+
+      <a href="https://wa.me/5591993015536"
+      target="_blank"
+      class="btn btn-secondary">
+
+        Falar no WhatsApp
+
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+<section id="produtos">
+
+    <div class="container">
+
+        <div class="section-title">
+    
+          <h2>Produtos em Destaque</h2>
+    
+          <p>
+            Confira alguns equipamentos disponíveis.
+          </p>
+    
+    </div>
+    
+        <div class="search-box">
+    
+          <input 
+          type="text"
+          id="searchInput"
+          placeholder="Buscar produtos...">
+        
+    </div>
+        
+        <div class="categories">
+
+  <button class="category active" data-filter="all">
+    <i class="fas fa-border-all"></i>
+    Todos
+  </button>
+
+  <!-- ================= NOTEBOOK ================= -->
+  <div class="category-dropdown">
+    <button class="category-group-btn" type="button" data-group-target="notebook">
+      <i class="fas fa-laptop"></i>
+      Notebook
+      <i class="fas fa-chevron-down group-arrow"></i>
+    </button>
+
+    <div class="subcategory-menu" data-group-panel="notebook" hidden>
+      <button class="category" data-filter="notebook">
+        <i class="fas fa-laptop"></i>
+        Notebooks
+      </button>
+
+      <button class="category" data-filter="tela">
+        <i class="fas fa-tv"></i>
+        Telas
+      </button>
+
+      <button class="category" data-filter="bateria">
+        <i class="fas fa-battery-three-quarters"></i>
+        Baterias
+      </button>
+
+      <button class="category" data-filter="teclado">
+        <i class="fas fa-keyboard"></i>
+        Teclados
+      </button>
+
+      <button class="category" data-filter="fonte">
+        <i class="fas fa-plug"></i>
+        Fontes
+      </button>
+
+      <button class="category" data-filter="cooler">
+        <i class="fas fa-fan"></i>
+        Coolers
+      </button>
+    </div>
+  </div>
+
+  <!-- ================= DESKTOP ================= -->
+  <div class="category-dropdown">
+    <button class="category-group-btn" type="button" data-group-target="desktop">
+      <i class="fas fa-desktop"></i>
+      Desktop
+      <i class="fas fa-chevron-down group-arrow"></i>
+    </button>
+
+    <div class="subcategory-menu" data-group-panel="desktop" hidden>
+      <button class="category" data-filter="desktop">
+        <i class="fas fa-desktop"></i>
+        Computadores completos
+      </button>
+
+      <button class="category" data-filter="gabinete">
+        <i class="fas fa-computer"></i>
+        Gabinetes
+      </button>
+
+      <button class="category" data-filter="monitor">
+        <i class="fas fa-display"></i>
+        Monitores
+      </button>
+
+      <button class="category" data-filter="mouse">
+        <i class="fas fa-computer-mouse"></i>
+        Mouses
+      </button>
+
+      <button class="category" data-filter="processador">
+        <i class="fas fa-microchip"></i>
+        Processadores
+      </button>
+
+      <button class="category" data-filter="placamae">
+        <i class="fas fa-server"></i>
+        Placas-mãe
+      </button>
+
+      <button class="category" data-filter="placavideo">
+        <i class="fas fa-display"></i>
+        Placas de vídeo
+      </button>
+
+      <button class="category" data-filter="memoria">
+        <i class="fas fa-memory"></i>
+        Memória RAM
+      </button>
+
+      <button class="category" data-filter="ssd">
+        <i class="fas fa-hard-drive"></i>
+        SSD
+      </button>
+
+      <button class="category" data-filter="hd">
+        <i class="fas fa-database"></i>
+        HD
+      </button>
+
+      <button class="category" data-filter="fontepc">
+        <i class="fas fa-plug"></i>
+        Fontes
+      </button>
+
+      <button class="category" data-filter="cooler">
+        <i class="fas fa-fan"></i>
+        Coolers
+      </button>
+    </div>
+  </div>
+
+  <!-- ================= SEGURANÇA ================= -->
+  <div class="category-dropdown">
+    <button class="category-group-btn" type="button" data-group-target="seguranca">
+      <i class="fas fa-shield-halved"></i>
+      Segurança
+      <i class="fas fa-chevron-down group-arrow"></i>
+    </button>
+
+    <div class="subcategory-menu" data-group-panel="seguranca" hidden>
+      <button class="category" data-filter="camera">
+        <i class="fas fa-camera"></i>
+        Câmeras
+      </button>
+
+      <button class="category" data-filter="dvr">
+        <i class="fas fa-video"></i>
+        DVRs
+      </button>
+
+      <button class="category" data-filter="nvr">
+        <i class="fas fa-server"></i>
+        NVRs
+      </button>
+
+      <button class="category" data-filter="acessorio-seguranca">
+        <i class="fas fa-plug-circle-bolt"></i>
+        Acessórios
+      </button>
+    </div>
+  </div>
+
+  <!-- ================= PERIFÉRICOS ================= -->
+  <div class="category-dropdown">
+    <button class="category-group-btn" type="button" data-group-target="perifericos">
+      <i class="fas fa-keyboard"></i>
+      Periféricos
+      <i class="fas fa-chevron-down group-arrow"></i>
+    </button>
+
+    <div class="subcategory-menu" data-group-panel="perifericos" hidden>
+      <button class="category" data-filter="tecladopc">
+        <i class="fas fa-keyboard"></i>
+        Teclados
+      </button>
+
+      <button class="category" data-filter="mouse">
+        <i class="fas fa-computer-mouse"></i>
+        Mouses
+      </button>
+
+      <button class="category" data-filter="impressora">
+        <i class="fas fa-print"></i>
+        Impressoras
+      </button>
+
+      <button class="category" data-filter="gamer">
+        <i class="fas fa-gamepad"></i>
+        Gamer
+      </button>
+    </div>
+  </div>
+
+  <!-- ================= REDES ================= -->
+  <div class="category-dropdown">
+    <button class="category-group-btn" type="button" data-group-target="redes">
+      <i class="fas fa-network-wired"></i>
+      Redes
+      <i class="fas fa-chevron-down group-arrow"></i>
+    </button>
+
+    <div class="subcategory-menu" data-group-panel="redes" hidden>
+      <button class="category" data-filter="redes">
+        <i class="fas fa-network-wired"></i>
+        Equipamentos de rede
+      </button>
+
+      <button class="category" data-filter="roteador">
+        <i class="fas fa-wifi"></i>
+        Roteadores
+      </button>
+
+      <button class="category" data-filter="switch">
+        <i class="fas fa-ethernet"></i>
+        Switches
+      </button>
+
+      <button class="category" data-filter="cabo">
+        <i class="fas fa-link"></i>
+        Cabos
+      </button>
+    </div>
+  </div>
+
+</div>
+        
+        <div class="sort-box">
+    
+          <select id="sortSelect">
+    
+              <option value="random" selected>
+                Ordenar por
+              </option>
+            
+              <option value="az">
+                Nome A-Z
+              </option>
+            
+              <option value="price-low">
+                Menor preço
+              </option>
+            
+              <option value="price-high">
+                Maior preço
+              </option>
+            
+              
+            
+            </select>
+        
+    </div>
+    <!--======================================== ZPRODUTOS ===============================================-->
+        <div class="products-grid" id="productsGrid"></div>
+    
+    </div>
+
+</section>
+
+<section class="benefits" id="beneficios">
+
+  <div class="container">
+
+    <div class="section-title">
+
+      <h2>Por que comprar conosco?</h2>
+
+      <p>
+        Atendimento especializado e suporte profissional.
+      </p>
+
+    </div>
+
+    <div class="benefits-grid">
+
+      <div class="benefit-card">
+
+        <i class="fas fa-shield-halved"></i>
+
+        <h3>Garantia</h3>
+
+        <p>
+          Produtos com garantia e suporte técnico.
+        </p>
+
+      </div>
+
+      <div class="benefit-card">
+
+        <i class="fas fa-screwdriver-wrench"></i>
+
+        <h3>Instalação</h3>
+
+        <p>
+          Fazemos instalação e configuração completa.
+        </p>
+
+      </div>
+
+      <div class="benefit-card">
+
+        <i class="fas fa-headset"></i>
+
+        <h3>Suporte</h3>
+
+        <p>
+          Atendimento rápido via WhatsApp.
+        </p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+<section id="contato">
+
+  <div class="container">
+
+    <div class="section-title">
+
+      <h2>Solicite um orçamento</h2>
+
+      <p>
+        Fale conosco e encontre o equipamento ideal.
+      </p>
+
+    </div>
+
+  </div>
+
+</section>
+
+<footer>
+
+      <div class="container footer-grid">
+    
+        <div>
+    
+          <h3>
+            <span class="logo-if">IF</span>
+            <span class="logo-soltec">SOLTEC</span>
+          </h3>
+    
+          <p>
+            Soluções completas em tecnologia,
+            suporte técnico e desenvolvimento.
+          </p>
+    
+        </div>
+    
+        <div>
+    
+          <h4>Contato</h4>
+    
+          <p>WhatsApp: (91) 99301‑5536</p>
+    
+          <p>contato@ifsoltec.com</p>
+    
+          <p>Breves - PA</p>
+    
+        </div>
+    
+        <div>
+    
+          <h4>Atendimento</h4>
+    
+          <p>Segunda a Sábado</p>
+    
+          <p>08h às 18h</p>
+    
+          <p>CNPJ: 65.800.691/0001-53</p>
+    
+        </div>
+    
+      </div>
+    
+      <div class="footer-bottom">
+    
+        © 2026 IFSOLTEC - Todos os direitos reservados.
+    
+      </div>
+    
+    </footer>
+
+<a href="https://wa.me/5591993015536"
+target="_blank"
+class="whatsapp-float">
+
+<i class="fab fa-whatsapp"></i>
+
+</a>
+<script src="js/script.js"></script>
+<script src="js/catalogo-json.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,719 @@
+[
+  {
+    "id": "teclado-001",
+    "name": "Teclado Lenovo Ideapad S145-15 Series",
+    "title": "Teclado Lenovo Ideapad",
+    "category": "teclado",
+    "price": 170,
+    "badge": "Novo",
+    "description": "Teclado ideal para notebooks Lenovo da serie S145-15 Series.",
+    "images": [
+      "produtos/teclado/teclado-lenovo-ideapad-s145-15-series-be78eb8a.webp",
+      "produtos/teclado/teclado-lenovo-ideapad-s145-15-series-b237bf9c.webp",
+      "produtos/teclado/teclado-lenovo-ideapad-s145-15-series-b52a5ad1.webp"
+    ],
+    "details": [
+      "Garantia: 3 meses",
+      "Compatível com a marca: Lenovo",
+      "Com Ç: Sim",
+      "Moldura: Não",
+      "Luminoso: Não"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "teclado-002",
+    "name": "Teclado Samsung Np500r5h-Xd3br – Np500r5h-Yd1br",
+    "title": "Teclado Samsung",
+    "category": "teclado",
+    "price": 170,
+    "badge": "Novo",
+    "description": "Teclado Samsung Np500r5h-Xd3br – Np500r5h-Yd1br",
+    "images": [
+      "produtos/teclado/teclado-samsung-np500r5h-xd3br-np500r5h-yd1br-22612c92.webp",
+      "produtos/teclado/teclado-samsung-np500r5h-xd3br-np500r5h-yd1br-3e1bf6a5.webp",
+      "produtos/teclado/teclado-samsung-np500r5h-xd3br-np500r5h-yd1br-0e708071.webp"
+    ],
+    "details": [
+      "Garantia: 3 meses",
+      "Compatível com a marca: Samsung",
+      "Com Ç: Sim",
+      "Moldura: Não",
+      "Luminoso: Não"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "fonte-003",
+    "name": "Fonte Lenovo Ideapad 3 15ITL6",
+    "title": "Fonte Lenovo Ideapad 3",
+    "category": "fonte",
+    "price": 190,
+    "badge": "Novo",
+    "description": "Fonte de boa qualidade fabricada pela empresa Bring It.",
+    "images": [
+      "produtos/fonte/fonte-lenovo-ideapad-3-15itl6-3110a69a-ezwdk4cwnx.webp",
+      "produtos/fonte/fonte-lenovo-ideapad-3-15itl6-32aa8392-r8ezpe9n0v.webp",
+      "produtos/fonte/fonte-lenovo-ideapad-3-15itl6-97d3a2d4-n2eo2iadts.webp"
+    ],
+    "details": [
+      "Marca compatível: Lenovo",
+      "Fabricante: Bring It",
+      "Voltagem da fonte: 20v",
+      "Corrente: 3.25A",
+      "Plug: 4.0mm – 1.7mm",
+      "Potência: 65w",
+      "Acompanha cabo de força: Sim",
+      "É universal: Não",
+      "Código de barras: 7804685560940"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "fonte-004",
+    "name": "Fonte Acer 19v 1.58 30w – 5.5mm – 1.7mm",
+    "title": "Fonte Acer 19v",
+    "category": "fonte",
+    "price": 190,
+    "badge": "Novo",
+    "description": "Fonte Acer 19v 1.58 30w – 5.5mm – 1.7mm",
+    "images": [
+      "produtos/fonte/fonte-acer-19v-1-58-30w-5-5mm-1-7mm-9bcc024c.webp",
+      "produtos/fonte/fonte-acer-19v-1-58-30w-5-5mm-1-7mm-8749c7d5.webp",
+      "produtos/fonte/fonte-acer-19v-1-58-30w-5-5mm-1-7mm-d6d1e040.webp"
+    ],
+    "details": [
+      "Marca compatível: Acer",
+      "Fabricante: Bring It",
+      "Voltagem da fonte: 19v",
+      "Corrente: 1.58A",
+      "Plug: 5.5mm – 1.7mm",
+      "Potência: 30w",
+      "Acompanha cabo de força: Sim",
+      "É universal: Não",
+      "Código de barras: 7808747662191"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "fonte-005",
+    "name": "Fonte Dell 19.5V 3.34a 65w plug de 4.5mm x 3.0mm",
+    "title": "Fonte Dell 19.5V",
+    "category": "fonte",
+    "price": 190,
+    "badge": "Novo",
+    "description": "Fonte Dell 19.5V 3.34a 65w plug de 4.5mm x 3.0mm",
+    "images": [
+      "produtos/fonte/fonte-dell-19-5v-3-34a-65w-plug-de-4-5mm-x-3-0mm-bae751ec.webp",
+      "produtos/fonte/fonte-dell-19-5v-3-34a-65w-plug-de-4-5mm-x-3-0mm-7f68e899.webp",
+      "produtos/fonte/fonte-dell-19-5v-3-34a-65w-plug-de-4-5mm-x-3-0mm-1d28f256.webp"
+    ],
+    "details": [
+      "Marca compatível: Dell",
+      "Fabricante: Bring It",
+      "Voltagem da fonte: 19.5v",
+      "Corrente: 3.34A",
+      "Plug: 4.5mm – 3.0mm",
+      "Potência: 65w",
+      "Acompanha cabo de força: Sim",
+      "É universal: Não",
+      "Código de barras: 7804685560872"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "bateria-006",
+    "name": "Bateria Dell Inspiron 15 3521",
+    "title": "Bateria Dell Inspiron 15",
+    "category": "bateria",
+    "price": 220,
+    "badge": "Novo",
+    "description": "Baterias Bring It Compativel com a marca Dell.",
+    "images": [
+      "produtos/bateria/bateria-dell-inspiron-14-3421-15-3521-3721-2421-mr90y-10-8v-e99c06cb.webp",
+      "produtos/bateria/bateria-dell-inspiron-14-3421-15-3521-3721-2421-mr90y-10-8v-ae00447a.webp",
+      "produtos/bateria/bateria-dell-inspiron-14-3421-15-3521-3721-2421-mr90y-10-8v-2702fd80.webp"
+    ],
+    "details": [
+      "Garantia: 3 meses",
+      "Compativel com a marca: Dell",
+      "Capacidade: 4000mAh",
+      "Voltagem: 10.8V (11.1V)",
+      "Numero de células: 6 celulas"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "bateria-007",
+    "name": "Bateria Dell Inspiron I13 5368 5378 P69g Wdx0r",
+    "title": "Bateria Dell Inspiron I13",
+    "category": "bateria",
+    "price": 290,
+    "badge": "Novo",
+    "description": "Bateria Dell Inspiron I13 5368 5378 P69g Wdx0r",
+    "images": [
+      "produtos/bateria/bateria-dell-inspiron-i13-5368-5378-p69g-wdx0r-7230f7cc.webp",
+      "produtos/bateria/bateria-dell-inspiron-i13-5368-5378-p69g-wdx0r-0cefd166.webp",
+      "produtos/bateria/bateria-dell-inspiron-i13-5368-5378-p69g-wdx0r-20990d13.webp"
+    ],
+    "details": [
+      "Garantia: 3 meses",
+      "Compativel com a marca: Dell",
+      "Capacidade: 3400mAh",
+      "Voltagem: 11.4V",
+      "Células: Lítio-Polímero"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "tela-008",
+    "name": "Tela 15.6 Led Slim 30 Pinos - 1366x768 - HD - Com Abas",
+    "title": "Tela 15.6 Led Slim HD",
+    "category": "tela",
+    "price": 390,
+    "badge": "Novo",
+    "description": "Tela 15.6 Led Slim 30 Pinos - 1366x768 - HD - Com Abas",
+    "images": [
+      "produtos/tela/tela-15-6-led-slim-30-pinos-1366x768-91970de8.webp",
+      "produtos/tela/tela-15-6-led-slim-30-pinos-1366x768-9febeac0.webp"
+    ],
+    "details": [
+      "Garantia: 3 meses",
+      "Modelo do notebook: Compatível com vários modelos",
+      "Tamanho: 15.6”",
+      "Resolução: 1366x768",
+      "Pinagem: 30",
+      "Código compatível: B156XTN07 .1, NT156WHM-N42 V8.3",
+      "SKU: 5422934764064"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "tela-009",
+    "name": "Tela Samsung Np500P4ch",
+    "title": "Tela Samsung",
+    "category": "tela",
+    "price": 330,
+    "badge": "Novo",
+    "description": "Tela Samsung Np500P4ch",
+    "images": [
+      "produtos/tela/tela-samsung-np500p4ch-ee0a2c81-3ccnm7f5br.webp",
+      "produtos/tela/tela-samsung-np500p4ch-2581b369-wlaetp97f2.webp",
+      "produtos/tela/tela-samsung-np500p4ch-7100b9cf-vyft12abiw.webp"
+    ],
+    "details": [
+      "Garantia: 3 meses",
+      "Compatível com a marca: Samsung",
+      "Modelo do notebook: Compatível com vários modelos",
+      "Tamanho: 14.0”",
+      "Resolução: 1366x768",
+      "Pinagem: 40",
+      "Tipo de tela: Ultra Slim",
+      "SKU: 2048089206201"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "cooler-010",
+    "name": "Cooler Dell Inspiron 15 (5545) | 3 Vias",
+    "title": "Cooler Dell Inspiron 15",
+    "category": "cooler",
+    "price": 90,
+    "badge": "Novo",
+    "description": "Cooler Dell Inspiron 15 (5545) | 3 Vias",
+    "images": [
+      "produtos/cooler/cooler-para-notebook-dell-inspiron-15-5545-3-vias-e35e76b4.webp",
+      "produtos/cooler/cooler-para-notebook-dell-inspiron-15-5545-3-vias-d0f7fd2a.webp"
+    ],
+    "details": [
+      "SKU: CL173-7",
+      "Marca: Dell",
+      "Modelo compatível: Cooler Dell Inspiron 15 (5545) | 3 Vias",
+      "Garantia: 3 meses"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "memoria-011",
+    "name": "Memória Ram Notebook 4gb Ddr4 2666 Brazilpc",
+    "title": "Memória Ram Notebook 4gb Ddr4 2666 Brazilpc",
+    "category": "memoria",
+    "price": 145,
+    "badge": "Novo",
+    "description": "Memória Ram Notebook 4gb Ddr4 2666 Brazilpc",
+    "images": [
+      "produtos/memoriaRam/mem_note_4gb_ddr4_2666_brazilpc_1.webp",
+      "produtos/memoriaRam/mem_note_4gb_ddr4_2666_brazilpc_2.webp"
+    ],
+    "details": [
+      "Marca: BRAZILPC",
+      "Voltagem: 1.2V",
+      "Capacidade: 4GB",
+      "Tecnologia: DDR4",
+      "Frequência: 2666 MHz"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "desktop-012",
+    "name": "Computador Completo Intel Core I3, 3.1ghz, 4g Pc3, 120gb, Monitor 15 Pol, Mouse E Teclado",
+    "title": "Computador Completo Intel Core I3",
+    "category": "desktop",
+    "price": 1400,
+    "badge": "Novo",
+    "description": "Computador Completo Intel Core I3, 3.1ghz, 4g Pc3, 120gb, Monitor 15 Pol, Mouse E Teclado",
+    "images": [
+      "produtos/computador/computador_completo_intel_core_i3_31ghz_4gb_ddr3_s_1_20251226150844_316f110f7f4d.webp"
+    ],
+    "details": [
+      "Processador: Intel Core i3, 3.1 GHz",
+      "Núcleos/Threads: 2 núcleos e 4 threads",
+      "Memória RAM: 4 GB DDR3",
+      "Armazenamento: SSD 120 GB",
+      "Placa de vídeo: integrada Intel HD Graphics",
+      "Fonte: 200W (padrão para PCs básicos)",
+      "Monitor: LED 15'",
+      "Periféricos: Mouse e teclado inclusos",
+      "Gabinete: Slim, compacto e leve"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "desktop-013",
+    "name": "Computador Completo Intel Core I3, 3.1ghz, 4g Pc3, 120gb, Monitor 15 Pol, Mouse E Teclado",
+    "title": "Computador Completo Intel Core I5",
+    "category": "desktop",
+    "price": 1860,
+    "badge": "Novo",
+    "description": "Computador Completo Intel Core I5, 3.1ghz, 8gb Ddr3, Ssd 240gb, Monitor 21.5p, Mouse E Teclado",
+    "images": [
+      "produtos/computador/computador_completo_intel_core_i5_31ghz_8gb_ddr3_s_1_20251226151854_87106b5cbf01.webp"
+    ],
+    "details": [
+      "Processador: Intel Core i5, 3.1 GHz",
+      "Núcleos/Threads: 4 núcleos e 4 threads (dependendo da geração)",
+      "Memória RAM: 8 GB DDR3",
+      "Armazenamento: SSD 240 GB",
+      "Placa de vídeo: integrada Intel HD Graphics",
+      "Fonte: 200W (padrão para PCs básicos)",
+      "Monitor: LED 21.5 Full HD",
+      "Periféricos: Mouse e teclado inclusos",
+      "Gabinete: Slim, compacto e leve"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "monitor-014",
+    "name": "Monitor Acer 27 Kg0 Nitro Kg270 240hz W3biip Preto",
+    "title": "Monitor Acer Nitro 27' 240Hz",
+    "category": "monitor",
+    "price": 1468,
+    "badge": "Novo",
+    "description": "Monitor Acer 27 Kg0 Nitro Kg270 240hz W3biip Preto",
+    "images": [
+      "produtos/monitor/monitor_acer_27_kg0_nitro_kg270_w3biip_preto_1_20260428175359_e3cc65fcc972.webp",
+      "produtos/monitor/monitor_acer_27_kg0_nitro_kg270_w3biip_preto_3_20260428175359_575d397448ad.webp",
+      "produtos/monitor/monitor_acer_27_kg0_nitro_kg270_w3biip_preto_2_20260428175359_5bfb62d6b3a1.webp"
+    ],
+    "details": [
+      "Marca: Acer",
+      "Modelo: KG270 W3biip",
+      "Tamanho: 27'",
+      "Tipo de painel: IPS",
+      "Resolução: 1920 x 1080 (Full HD)",
+      "Proporção: 16:9",
+      "Taxa de atualização: 240Hz",
+      "Tempo de resposta: até 0,5ms (GTG)",
+      "HDR: HDR10",
+      "AMD FreeSync Premium",
+      "2x HDMI 2.0",
+      "1x DisplayPort 1.4"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "monitor-015",
+    "name": "Monitor 19 Bpc Led 60htz 19we02 Preto",
+    "title": "Monitor Led 19' 60Hz",
+    "category": "monitor",
+    "price": 350,
+    "badge": "Novo",
+    "description": "Monitor 19 Bpc Led 60hz 19we02 Preto",
+    "images": [
+      "produtos/monitor/monitor_19_bpc_led_60htz_19we02_preto_1_20260410173147_804858faaa4f.webp",
+      "produtos/monitor/monitor_19_bpc_led_60htz_19we02_preto_1_20260410173147_804858faaa4f2.webp",
+      "produtos/monitor/monitor_19_bpc_led_60htz_19we02_preto_1_20260410173147_804858faaa4f3.webp"
+    ],
+    "details": [
+      "Marca: BRAZIL PC",
+      "Modelo: BPC-19WE02-B",
+      "Cor: Preto",
+      "Voltagem: Bivolt (100 ~ 240V, 50/60 Hz)",
+      "Tamanho da tela: 19\" LED (16:10)",
+      "Tecnologia do painel: TN",
+      "Resolução máxima: 1440 x 900 (1.3 megapixel)",
+      "Brilho: 300 cd/m",
+      "Tempo de resposta: 5 ms",
+      "Frequência de varredura: 60Hz",
+      "Entrada: HDMI, VGA ( Acompanha cabo HDMI )"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "teclado-016",
+    "name": "Teclado Gamer Redragon Mecanico Lakshmi Rainbow Pr",
+    "title": "Teclado Gamer Redragon Mecanico",
+    "category": "tecladopc",
+    "price": 230,
+    "badge": "Novo",
+    "description": "Teclado Gamer Redragon Mecanico Lakshmi Rainbow Pr",
+    "images": [
+      "produtos/teclado/teclado_gamer_redragon_mecanico_lakshmi_rainbow_pr_1_20260528120030_0c2ee753c561.webp",
+      "produtos/teclado/teclado_gamer_redragon_mecanico_lakshmi_rainbow_pr_1_20260528120030_0c2ee753c562.webp",
+      "produtos/teclado/teclado_gamer_redragon_mecanico_lakshmi_rainbow_pr_1_20260528120030_0c2ee753c563.webp"
+    ],
+    "details": [
+      "Marca: Redragon",
+      "Layout compacto 60%",
+      "Iluminação RGB Rainbow personalizável",
+      "Switches mecânicos de alta durabilidade",
+      "Construção sólida e design ergonômico",
+      "Teclas programáveis e funções multimídia acessíveis via tecla FN"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "teclado-017",
+    "name": "Teclado Redragon Mecanico Valheim Rainbow Preto Switch Azul K608r Ptbrown",
+    "title": "Teclado Gamer Redragon Mecanico Valheim Rainbow",
+    "category": "tecladopc",
+    "price": 260,
+    "badge": "Novo",
+    "description": "Teclado Redragon Mecanico Valheim Rainbow Preto Switch Azul K608r Ptbrown",
+    "images": [
+      "produtos/teclado/teclado_redragon_mecanico_valheim_rainbow_preto_sw_1_20260528111744_89525393cf34.webp",
+      "produtos/teclado/teclado_redragon_mecanico_valheim_rainbow_preto_sw_1_20260528111744_89525393cf342.webp",
+      "produtos/teclado/teclado_redragon_mecanico_valheim_rainbow_preto_sw_1_20260528111744_89525393cf343.webp"
+    ],
+    "details": [
+      "Marca: Redragon",
+      "Switches mecânicos azuis",
+      "Iluminação RGB Rainbow personalizável",
+      "Layout completo com teclado numérico",
+      "Construção durável e design elegante preto",
+      "Conexão USB com alta estabilidade",
+      "Anti-ghosting e suporte a múltiplas teclas simultâneas"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "teclado-018",
+    "name": "Teclado Mecanico Redragon Kumara Pro Rgb Preto Switch Vermelho",
+    "title": "Teclado Mecanico Redragon Kumara Pro Rgb Preto Switch Vermelho",
+    "category": "tecladopc",
+    "price": 350,
+    "badge": "Novo",
+    "description": "Teclado Mecanico Redragon Kumara Pro Rgb Preto Switch Vermelho",
+    "images": [
+      "produtos/teclado/teclado_mecanico_redragon_kumara_pro_rgb_preto_swi_1_20260304043901_67ef03afd6c9.webp",
+      "produtos/teclado/teclado_mecanico_redragon_kumara_pro_rgb_preto_swi_1_20260304043901_67ef03afd6c92.webp",
+      "produtos/teclado/teclado_mecanico_redragon_kumara_pro_rgb_preto_swi_1_20260304043901_67ef03afd6c93.webp"
+    ],
+    "details": [
+      "Marca: REDRAGON",
+      "Modelo: Kumara Pro V2 RGB",
+      "Acionamento Magnético",
+      "Formato TKL Compacto",
+      "Keycaps Duráveis",
+      "Iluminação RGB",
+      "Hotswap DIY Magnético",
+      "Software Completo",
+      "Recursos Gamer",
+      "USB Comprimento do cabo: 2m",
+      "Dimensões da embalagem: 40 x 375 x 160 mm"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "gabinete-019",
+    "name": "gabinete com Core I5 3.1 Ghz, 4gb, Ssd 120gb, 200w",
+    "title": "Gabinete Core I5, 4GB de RAM e 120GB de SSD",
+    "category": "gabinete",
+    "price": 1200,
+    "badge": "Novo",
+    "description": "Computador ideal para escritorios e estabeleciomentos",
+    "images": [
+      "produtos/computador/computador_intel_core_i5_31_ghz_4gb_ssd_120gb_200_1_20251223112213_87b0dc7c43dc.webp"
+    ],
+    "details": [
+      "Processador Intel Core i5 2ª geração com clock de 3.1 GHz para desempenho estável",
+      "4GB de RAM para multitarefas e navegação sem travamentos",
+      "SSD 120GB para maior rapidez na inicialização e carregamento de programas",
+      "Fonte 200W garantindo energia constante e segura",
+      "Design compacto e discreto, ideal para ambientes profissionais e domésticos"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "ssd-020",
+    "name": "SSD Marca Tronos SATA III 480GB",
+    "title": "SSD Marca Tronos SATA III 480GB",
+    "category": "ssd",
+    "price": 540,
+    "badge": "Novo",
+    "description": "SSD Marca Tronos SATA III 480GB",
+    "images": [
+      "produtos/ssd/ssd-marca-tronos-sata-iii-480gb-4f1f715e-ed0al45kzq.webp",
+      "produtos/ssd/ssd-marca-tronos-sata-iii-480gb-41357e90-kqpym5bkli.webp"
+    ],
+    "details": [
+      "Marca:  Tronos",
+      "Modelo: TN480G-SSD",
+      "Capacidade: 480GB",
+      "Velocidade de Leitura: 520Mbps / Escrita: 470Mbps",
+      "Formato: 2.5\"",
+      "Interface: SATA 3"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "ssd-021",
+    "name": "SSD SATA III 240GB",
+    "title": "SSD SATA III 240GB",
+    "category": "ssd",
+    "price": 340,
+    "badge": "Novo",
+    "description": "SSD SATA III 240GB",
+    "images": [
+      "produtos/ssd/ssd-marca-tronos-sata-iii-480gb-4f1f715e-ed0al45kzq.webp",
+      "produtos/ssd/ssd-marca-tronos-sata-iii-480gb-41357e90-kqpym5bkli.webp"
+    ],
+    "details": [
+      "Marca:  Tronos",
+      "Modelo: TN240G-SSD",
+      "Capacidade: 240GB",
+      "Velocidade de Leitura: 520Mbps / Escrita: 470Mbps",
+      "Formato: 2.5\"",
+      "Interface: SATA 3"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "processador-022",
+    "name": "Processador Core I3 3ª Ger 3.3ghz Lga1155 Oem",
+    "title": "Processador Core I3 3ª",
+    "category": "processador",
+    "price": 85,
+    "badge": "Novo",
+    "description": "Processador Core I3 3ª Ger 3.3ghz Lga1155 Oem",
+    "images": [
+      "produtos/processador/proc_core_i3_3220_33ghz_lga1155_oem_1_20251224090154_bd052dfbab97.webp"
+    ],
+    "details": [
+      "Marca: Intel",
+      "Modelo: i3-3220",
+      "Linha: Core i3 (3ª geração ? Ivy Bridge)",
+      "Socket: LGA 1155",
+      "Núcleos / Threads: 2 núcleos / 4 threads (Hyper-Threading)",
+      "Frequência base: 3.3 GHz",
+      "Cache: 3 MB Intel Smart Cache",
+      "TDP: 55 W",
+      "DDR3 até 1600 MHz"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "processador-023",
+    "name": "Processador Core I5 2ª Ger 3.10ghz Lga 1155 Oem",
+    "title": "Processador Core I5 2ª",
+    "category": "processador",
+    "price": 145,
+    "badge": "Novo",
+    "description": "Processador Core I5 2ª Ger 3.10ghz Lga 1155 Oem",
+    "images": [
+      "produtos/processador/proc_intel_i5_2400_310ghz_lga_1155_oem_1_20251223152042_070c950edc38.webp"
+    ],
+    "details": [
+      "Marca: Intel",
+      "Modelo: i5-2400",
+      "Velocidade do clock: 3.10GHz",
+      "Núcleos / Threads: 4 núcleos / 4 threads (Hyper-Threading)",
+      "Soquete: LGA 1155",
+      "Cache: 6MB",
+      "TDP: 95W"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "placamae-024",
+    "name": "Processador Core I3 3ª Ger 3.3ghz Lga1155 Oem",
+    "title": "Placa Mãe Brazilpc H61 Lga 1155 Ddr3",
+    "category": "placamae",
+    "price": 185,
+    "badge": "Novo",
+    "description": "Placa Mãe Brazilpc H61 Lga 1155 Ddr3",
+    "images": [
+      "produtos/placaMae/placa_me_brazilpc_h61_lga_1155_ddr3_1_20251217155555_4ac8ad47eb8f.webp",
+      "produtos/placaMae/placa_me_brazilpc_h61_lga_1155_ddr3_2_20251217155555_9a6525b0f109.webp",
+      "produtos/placaMae/placa_me_brazilpc_h61_lga_1155_ddr3_3_20251217155555_6db5c625c1e7.webp"
+    ],
+    "details": [
+      "Marca: Brazilpc",
+      "Modelo: BPC -H61M.2-TG",
+      "Compatibilidade de Processadores: LGA1155",
+      "Chipset: Intel H61",
+      "Slots de Memória: 2 x DDR3",
+      "capacidade máxima de memória: até 16gb",
+      "gráficos integrados: 1x vga, 1x hdmi",
+      "Rede: lan 10/100/1000mbps",
+      "conectividade usb: usb 2.0 e usb 3.0"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "placavideo-025",
+    "name": "Placa De Video G210 Winnfox 1gb 64bit Ddr3",
+    "title": "Placa De Video G210 Winnfox 1gb 64bit Ddr3",
+    "category": "placavideo",
+    "price": 195,
+    "badge": "Novo",
+    "description": "Placa De Video G210 Winnfox 1gb 64bit Ddr3",
+    "images": [
+      "produtos/placaVideo/gpu_g210_winnfox_1gb_64bit_ddr3_1_20251219223504_ac0371bd5c28.webp",
+      "produtos/placaVideo/gpu_g210_winnfox_1gb_64bit_ddr3_2_20251213111348_e45e8a0643e7.webp"
+    ],
+    "details": [
+      "Marca: Winnfox",
+      "ModeloG210-1GD3",
+      "ChipsetNVIDIA GeForce G210",
+      "Interface de Barramento: PCI Express 2.0",
+      "Velocidade do Núcleo: (Clock)650MHz",
+      "Memória de Vídeo: 1GB DDR3",
+      "Interface de Memória: 64 bits"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "placavideo-026",
+    "name": "Gpu Rx 590 Monarch Dragon 8gb Gddr5 256bits",
+    "title": "Gpu Rx 590 Monarch Dragon 8gb Gddr5 256bits",
+    "category": "placavideo",
+    "price": 1250,
+    "badge": "Novo",
+    "description": "Gpu Rx 590 Monarch Dragon 8gb Gddr5 256bits",
+    "images": [
+      "produtos/placaVideo/gpu_rx_590_monarch_dragon_8gb_gddr5_256bits_1_20260311223017_a727c290975a.webp",
+      "produtos/placaVideo/gpu_rx_590_monarch_dragon_8gb_gddr5_256bits_2_20260311223017_b0e1476841cd.webp",
+      "produtos/placaVideo/gpu_rx_590_monarch_dragon_8gb_gddr5_256bits_4_20260311223017_80557d75edce.webp"
+    ],
+    "details": [
+      "Marca: AMD",
+      "Chipset Gráfico: AMD",
+      "Série: Radeon RX Series",
+      "GPU: Radeon RX 580",
+      "Base Clock: 1125 MHz",
+      "CUDA Cores: 2048",
+      "Memória Tamanho: 8GB",
+      "Tipo: GDDR5",
+      "HDMI: 1",
+      "DisplayPort: 3"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "fonte-027",
+    "name": "Fonte 750w Cx 80plus Bronze Corsair",
+    "title": "Fonte 750w Cx 80plus Bronze Corsair",
+    "category": "fontepc",
+    "price": 740,
+    "badge": "Novo",
+    "description": "Fonte 750w Cx 80plus Bronze Corsair",
+    "images": [
+      "produtos/fonte/fonte_750w_cx_80plus_bronze_corsair_1_20260224101558_b54cd023584a2.webp",
+      "produtos/fonte/fonte_750w_cx_80plus_bronze_corsair_1_20260224101558_b54cd023584a.webp",
+      "produtos/fonte/fonte_750w_cx_80plus_bronze_corsair_1_20260224101558_b54cd023584a3.webp"
+    ],
+    "details": [
+      "Marca: Corsair",
+      "Certificação 80Plus Bronze",
+      "Potência estável de 750W",
+      "Compatível com as principais placas-mãe",
+      "Cabos com acabamento em malha",
+      "Proteções avançadas contra sobrecarga, curto-circuito e superaquecimento"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "camera-028",
+    "name": "Câmera Bullet Intelbras Vhc 1220 B G9, FHD",
+    "title": "Câmera Bullet Intelbras FHD",
+    "category": "camera",
+    "price": 150,
+    "badge": "Novo",
+    "description": "Câmera de Segurança Intelbras Vhc 1220 B G9, HD, Colorida, 2.8mm, Proteção Antissurto, Branco",
+    "images": [
+      "produtos/camera/Câmera-de-Segurança-Intelbras-VHD-1220-B-G9-Bullet-1080p-01.webp",
+      "produtos/camera/Câmera-de-Segurança-Intelbras-VHD-1220-B-G9-Bullet-1080p-02.webp",
+      "produtos/camera/Câmera-de-Segurança-Intelbras-VHD-1220-B-G9-Bullet-1080p-03.webp"
+    ],
+    "details": [
+      "Marca: Intelbras",
+      "Modelo: Vhc 1220 B G9",
+      "Com visão noturna: SIM",
+      "Compressão de Vídeo: H.265",
+      "Padrão de Cor do Vídeo: Colorida",
+      "Proteção: Antissurto, IP66",
+      "Resolução: FullHD (1080p)",
+      "Ângulo de Visão: 2.8mm"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "camera-029",
+    "name": "Câmera Dome Intelbras Vhc 1220 D G9, FHD",
+    "title": "Câmera Dome Intelbras FHD",
+    "category": "camera",
+    "price": 150,
+    "badge": "Novo",
+    "description": "Câmera Intelbras VHD 1220 D G9 Dome 1080p com Visão Noturna de 20m Multi HD, Compatível com Modo Full HD",
+    "images": [
+      "produtos/camera/Câmera-de-Segurança-Intelbras-VHD-1220-D-G8-Dome-1080p-01.webp",
+      "produtos/camera/Câmera-de-Segurança-Intelbras-VHD-1220-D-G8-Dome-1080p-02.webp",
+      "produtos/camera/Câmera-de-Segurança-Intelbras-VHD-1220-D-G8-Dome-1080p-03.webp"
+    ],
+    "details": [
+      "Marca: Intelbras",
+      "Modelo: Vhc 1220 D G9",
+      "Com visão noturna: SIM",
+      "Compressão de Vídeo: H.265",
+      "Padrão de Cor do Vídeo: Colorida",
+      "Resolução: FullHD (1080p)",
+      "Ângulo de Visão: 2.8mm"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  },
+  {
+    "id": "impressora-030",
+    "name": "Impressora Laser Mono Brother Hll1222 127v",
+    "title": "Impressora Laser Mono Brother",
+    "category": "impressora",
+    "price": 1030,
+    "badge": "Novo",
+    "description": "Impressora Laser Mono Brother Hll1222 127v",
+    "images": [
+      "produtos/impressora/impressora_laser_mono_brother_hll1222_127v_1_20251215144232_fd1609626dd9.webp",
+      "produtos/impressora/impressora_laser_mono_brother_hll1222_127v_2_20251215144233_14c3142f32bc.webp"
+    ],
+    "details": [
+      "Marca: Brother",
+      "Capacidade de Entrada do Papel 150 Folhas",
+      "Ciclo Mensal Até 12.000 páginas",
+      "Resolução de Impressão 600 x 600 DPI",
+      "Capacidade de Saída do Papel 50 Folhas",
+      "Garantia do Fabricante 1 Ano",
+      "Dimensões do Produto 340 (L) x 238 (P) x 189 (A) MM",
+      "Peso do produto 4,6 KG"
+    ],
+    "whatsapp": "https://wa.me/5591993015536"
+  }
+]
