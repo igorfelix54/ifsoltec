@@ -10,14 +10,14 @@
     content="width=device-width, initial-scale=1.0">
 
   <title>
-    IFSOLTEC - Soluções em Tecnologia
+    Loja IFSOLTEC - Peças e Equipamentos de Informática em Breves
   </title>
 
   <!-- SEO -->
 
   <meta
     name="description"
-    content="Empresa especializada em manutenção de computadores, instalação de câmeras, redes, suporte técnico e desenvolvimento de sistemas.">
+    content="Loja IFSOLTEC com peças, periféricos, câmeras, computadores, SSDs e equipamentos de informática em Breves - PA.">
 
   <meta
     name="keywords"
@@ -45,20 +45,21 @@
     
   <!-- Open Graph para quando compartilhar no WhatsApp/Facebook. -->
   
-    <meta property="og:title" content="IFSOLTEC">
+    <meta property="og:title" content="Loja IFSOLTEC">
     <meta property="og:description"
-    content="Soluções completas em tecnologia">
+    content="Peças, periféricos e equipamentos de informática com atendimento especializado.">
     <meta property="og:image"
     content="https://ifsoltec.com/banner.png">
     <meta property="og:url"
-    content="https://ifsoltec.com">
+    content="https://ifsoltec.com/loja.html">
+    <meta property="og:type" content="website">
 
   <!-- FAVICON -->
 
   <link
     rel="icon"
     type="image/png"
-    href="icon.png">
+    href="icon2.png">
 
   <!-- GOOGLE FONTS -->
 
@@ -119,7 +120,7 @@
       </a>
 
       <!-- MENU -->
-        <div class="menu">
+        <div class="menu" id="mainMenu">
         
           <a href="#inicio" class="menu-link active">
             <i class="fas fa-house"></i>
@@ -140,8 +141,22 @@
             <i class="fas fa-envelope"></i>
             <span>Contato</span>
           </a>
+
+          <a href="index.html" class="menu-link">
+            <i class="fas fa-screwdriver-wrench"></i>
+            <span>Site principal</span>
+          </a>
         
         </div>
+
+        <button
+          class="menu-toggle"
+          type="button"
+          aria-label="Abrir menu"
+          aria-controls="mainMenu"
+          aria-expanded="false">
+          <i class="fas fa-bars"></i>
+        </button>
 
     </nav>
 
@@ -171,6 +186,7 @@
 
       <a href="https://wa.me/5591993015536"
       target="_blank"
+      rel="noopener noreferrer"
       class="btn btn-secondary">
 
         Falar no WhatsApp
@@ -582,6 +598,7 @@
 
 <a href="https://wa.me/5591993015536"
 target="_blank"
+rel="noopener noreferrer"
 class="whatsapp-float">
 
 <i class="fab fa-whatsapp"></i>
@@ -589,6 +606,7 @@ class="whatsapp-float">
 </a>
 <script src="js/script.js"></script>
 <script src="js/catalogo-json.js"></script>
+<script src="js/site.js"></script>
 </body>
 
 </html>

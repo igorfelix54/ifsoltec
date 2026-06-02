@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const subcategoryMenus = document.querySelectorAll(".subcategory-menu");
 
   let currentCategory = "all";
+  let emptyState = null;
 
   if (!productsGrid) {
     console.error('Elemento com id="productsGrid" não encontrado.');
@@ -31,6 +32,21 @@ document.addEventListener("DOMContentLoaded", () => {
     "afterend",
     selectedCategoryIndicator
   );
+
+  function getEmptyState() {
+    if (emptyState) {
+      return emptyState;
+    }
+
+    emptyState = document.createElement("p");
+    emptyState.className = "products-empty";
+    emptyState.textContent = "Nenhum produto encontrado com esses filtros.";
+    emptyState.hidden = true;
+
+    productsGrid.insertAdjacentElement("afterend", emptyState);
+
+    return emptyState;
+  }
 
   function getProducts() {
     return Array.from(
@@ -73,24 +89,34 @@ document.addEventListener("DOMContentLoaded", () => {
   function filterProducts() {
     const searchText = normalizeText(searchInput?.value);
     const products = getProducts();
+    let visibleCount = 0;
 
     products.forEach(product => {
-      const productName = normalizeText(product.dataset.name);
+      const productSearch = normalizeText(
+        product.dataset.search || product.dataset.name
+      );
 
       const productCategory = String(
         product.dataset.category || ""
       ).trim().toLowerCase();
 
       const matchesSearch =
-        !searchText || productName.includes(searchText);
+        !searchText || productSearch.includes(searchText);
 
       const matchesCategory =
         currentCategory === "all" ||
         productCategory === currentCategory;
 
-      product.style.display =
-        matchesSearch && matchesCategory ? "" : "none";
+      const isVisible = matchesSearch && matchesCategory;
+
+      product.style.display = isVisible ? "" : "none";
+
+      if (isVisible) {
+        visibleCount += 1;
+      }
     });
+
+    getEmptyState().hidden = visibleCount > 0;
   }
 
   function sortProducts() {

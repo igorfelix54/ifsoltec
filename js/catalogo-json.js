@@ -49,12 +49,21 @@ function criarCardProduto(produto) {
   const imagens = Array.isArray(produto.images) ? produto.images.filter(Boolean) : [];
   const imagemPrincipal = imagens[0] || "produtos/sem-imagem.webp";
   const detalhes = Array.isArray(produto.details) ? produto.details : [];
+  const textoBusca = [
+    produto.name,
+    produto.title,
+    produto.category,
+    produto.description,
+    produto.badge,
+    ...detalhes
+  ].filter(Boolean).join(" ");
 
   return `
     <div class="product-card"
          data-product-id="${escapar(produto.id || "")}"
          data-name="${escapar(produto.name || produto.title || "")}"
          data-category="${escapar(produto.category || "")}"
+         data-search="${escapar(textoBusca)}"
          data-price="${Number(produto.price) || 0}">
 
       <div class="product-gallery">

@@ -649,3 +649,65 @@ footer {
 
   box-shadow:0 0 20px rgba(56,189,248,.35);
 }
+
+/*================ NAVEGACAO MOBILE ================*/
+
+.menu-toggle {
+  display: none;
+  width: 44px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.06);
+  color: #f8fafc;
+  font-size: 1.15rem;
+  cursor: pointer;
+}
+
+@media(max-width:768px) {
+  nav {
+    position: relative;
+    gap: 12px;
+  }
+
+  .menu-toggle {
+    display: flex;
+  }
+
+  .menu {
+    position: absolute;
+    top: calc(100% + 14px);
+    left: 0;
+    right: 0;
+    display: none;
+    flex-direction: column;
+    gap: 4px;
+    padding: 14px;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 16px;
+    background: rgba(15, 23, 42, 0.98);
+    box-shadow: 0 18px 35px rgba(0,0,0,0.35);
+  }
+
+  .menu.open {
+    display: flex;
+  }
+
+  .menu a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px;
+    border-radius: 10px;
+  }
+
+  .menu a:hover {
+    background: rgba(56,189,248,0.1);
+  }
+
+  .btn-loja span {
+    display: none;
+  }
+}
